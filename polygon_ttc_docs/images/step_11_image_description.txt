@@ -1,0 +1,3 @@
+Image: Narrow Phase - Final TTC Decision.
+Visual: A timeline graphic, similar to Step 7 but more refined. It shows the final 'ttc_interval_start' and 'ttc_interval_end' values after all axes have been processed. If 'ttc_interval_start <= ttc_interval_end', this interval is highlighted.
+Caption: Step 11: The final potential collision interval after checking all axes.

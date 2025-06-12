@@ -1,0 +1,4 @@
+Image: Zero Relative Velocity Check.
+Visual: SDC and OV polygons are shown separated (not touching). No velocity arrows, or a 'v_rel = 0' symbol.
+Alternative Visual (if touching): SDC and OV polygons are shown just touching at one point or edge, with 'v_rel = 0' symbol.
+Caption: Step 3: Handling zero relative velocity. If separated and v_rel=0, TTC is infinite.

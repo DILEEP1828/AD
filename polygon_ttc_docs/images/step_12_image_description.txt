@@ -1,0 +1,5 @@
+Image: Determine Final TTC Value.
+Visual:
+Case A (Collision): SDC and OV polygons are shown just touching at one point or edge. An arrow indicates the SDC moving towards this collision point over 'final_ttc' seconds. Text: 'Collision in 'final_ttc' seconds'.
+Case B (No Future Collision / Already Past): SDC and OV polygons are shown separated, perhaps moving away from each other if 'ttc_interval_start' was negative but capped at 0. Text: 'No future collision' or 'TTC = 0 (already past/touching)'.
+Caption: Step 12: The calculated Time to Collision (TTC), or determination of no future collision.

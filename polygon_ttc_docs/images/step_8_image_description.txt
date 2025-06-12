@@ -1,0 +1,3 @@
+Image: Narrow Phase - Get Separation Axes.
+Visual: The SDC polygon and the OV polygon, clearly showing their edges. For 2-3 distinct edges on the SDC, draw short, outward-pointing perpendicular arrows (normals). Do the same for 2-3 edges on the OV. These arrows represent potential separation axes.
+Caption: Step 8: Identifying all potential separation axes from the edges of SDC and OV.

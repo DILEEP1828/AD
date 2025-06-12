@@ -1,0 +1,3 @@
+Image: Narrow Phase - Projection and Interval Update (Loop Setup).
+Visual: A conceptual diagram. On one side, show a list or stack of the 'Separation Axes' (from Step 8). An arrow points from this list to a central area labeled 'Processing Loop', indicating these axes will be checked one by one. Show 'ttc_interval_start = 0' and 'ttc_interval_end = ∞' as initial values.
+Caption: Step 9: Setting up the loop to test each separation axis.

@@ -1,0 +1,3 @@
+Image: Initial Overlap Check.
+Visual: Two car-like polygons (a 'Self-Driving Car' - SDC, and an 'Other Vehicle' - OV). The SDC and OV polygons are shown partially intersecting, indicating they are already overlapping.
+Caption: Step 1: Checking if SDC and OV are already overlapping.

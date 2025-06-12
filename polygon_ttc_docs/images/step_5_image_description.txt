@@ -1,0 +1,3 @@
+Image: Broad Phase - AABB Collision on X-axis.
+Visual: A horizontal line representing the X-axis. Two 1D segments are shown on this line: one for AABB1's x-span, one for AABB2's x-span. An arrow indicates the direction of relative movement of AABB2's segment towards AABB1's segment based on 'v_rel_x'.
+Caption: Step 5: Projecting AABBs onto the X-axis and checking for 1D collision time.

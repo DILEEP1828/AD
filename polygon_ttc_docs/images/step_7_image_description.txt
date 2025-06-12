@@ -1,0 +1,3 @@
+Image: Broad Phase - Combine AABB Collision Intervals.
+Visual: A simple timeline graphic. Show two horizontal bars: one representing the X-axis collision interval [tx_enter, tx_leave], another for the Y-axis collision interval [ty_enter, ty_leave]. Below them, show a third bar representing their intersection: [max(tx_enter, ty_enter), min(tx_leave, ty_leave)].
+Caption: Step 7: Combining X and Y AABB collision intervals. If no overlap in these intervals, TTC is infinite.

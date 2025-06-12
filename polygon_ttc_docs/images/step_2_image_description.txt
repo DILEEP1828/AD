@@ -1,0 +1,3 @@
+Image: Calculate Relative Velocity.
+Visual: The SDC polygon is shown stationary. The OV polygon is shown at a slight distance. An arrow originates from the center of the OV, pointing in a direction that represents its velocity relative to the SDC. Label the arrow 'v_rel'.
+Caption: Step 2: Calculating OV's velocity relative to a stationary SDC.

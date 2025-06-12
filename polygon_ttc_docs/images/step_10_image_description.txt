@@ -1,0 +1,6 @@
+Image: Narrow Phase - Per-Axis Collision Check (Example).
+Visual:
+Part 1 (Projection): SDC and OV polygons. One specific separation axis is highlighted (e.g., a normal from an SDC edge). Below this, draw the 1D axis line. Show the projected 1D segments of both SDC and OV onto this line.
+Part 2 (Relative Velocity on Axis): An arrow showing the component of 'v_rel' along the highlighted axis.
+Part 3 (Interval Update): A mini-timeline showing how the [current_axis_t_enter, current_axis_t_leave] for this specific axis affects the overall [ttc_interval_start, ttc_interval_end].
+Caption: Step 10 (Example for one axis): Projecting polygons, checking relative velocity on axis, and updating overall TTC interval.

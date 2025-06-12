@@ -1,0 +1,3 @@
+Image: Broad Phase - AABB Setup.
+Visual: The SDC polygon with a dashed-line rectangle tightly enclosing it (labeled 'AABB1'). Separately, the OV polygon with its dashed-line AABB (labeled 'AABB2').
+Caption: Step 4: Enclosing SDC and OV with Axis-Aligned Bounding Boxes (AABBs).
